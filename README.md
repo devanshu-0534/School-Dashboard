@@ -2,17 +2,11 @@
     SCHOOL MANAGEMENT SYSTEM
 </h1>
 
-<h3 align="center">
-Streamline school management, class organization, and add students and faculty.<br>
-Seamlessly track attendance, assess performance, and provide feedback. <br>
-Access records, view marks, and communicate effortlessly.
-</h3>
+
 
 <br>
 
-[Youtube Video](https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC)
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
+
 
 # About
 
@@ -42,9 +36,6 @@ The School Management System is a web-based application built using the MERN (Mo
 
 # Installation
 
-```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
-```
 Open 2 terminals in separate windows/tabs.
 
 Terminal 1: Setting Up Backend 
@@ -70,20 +61,12 @@ npm start
 Now, navigate to `localhost:3000` in your browser. 
 The Backend API will be running at `localhost:5000`.
 
-If this is not working then go to the src > redux > userRelated > userHandle.js
 
-Write this after the import statements :
 
-const REACT_APP_BASE_URL = "http://localhost:5000"
 
-Now replace all process.env.REACT_APP_BASE_URL with REACT_APP_BASE_URL.
 
-The problem here was that the .env file in the frontend was not working for other users while it works for me.
-So you have to do this in the frontend. After this the project will run smoothly if not then you can contact me.
 
-<br>
 
-# Deployment
-* Render - server side
-* Netlify - client side
+
+
 
