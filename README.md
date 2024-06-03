@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="left">
     SCHOOL MANAGEMENT SYSTEM
-</h1>
+</h2>
 
 
 
